@@ -6,7 +6,8 @@ This project is a part of the [FreeCodeCamp Responsive Web Design Certification]
 
 ## Project Link
 
-You can view the live tribute page here: [Tribute Page Live Demo]([https://yourusername.github.io/tribute-page/](https://kelv48.github.io/Tribute-Page/))
+You can view the live tribute page here: 
+[Tribute Page Live Demo]([https://yourusername.github.io/tribute-page/](https://kelv48.github.io/Tribute-Page/)
 
 ## Screenshot
 
