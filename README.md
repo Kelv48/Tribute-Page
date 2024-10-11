@@ -10,6 +10,7 @@ You can view the live tribute page here:
 [Tribute Page Live Demo](https://kelv48.github.io/Tribute-Page/)
 
 ## Screenshot
+![Tribute Page Screenshot](https://github.com/Kelv48/Tribute-Page/blob/main/Tribute%20Page.png)
 
 ## Features
 
